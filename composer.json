@@ -1,0 +1,28 @@
+{
+    "name": "iqbalhasandev/laravel-bulksmsbd",
+  "description": "Integrate SMS system into your project easily with bulk sms bd's API via this plugin.",
+    "type": "library",
+      "keywords": [
+        "package",
+        "library",
+        "Plugin",
+        "bulksmsbd"
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "IQBAL HASAN",
+            "email": "iqbalhasan.dev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "webmasteriqbal\\bulksmsbd\\": "src/"
+        }
+    }
+
+}
