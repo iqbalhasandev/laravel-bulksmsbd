@@ -4,7 +4,7 @@ Made with ❤️ by [Iqbal Hasan](https://www.facebook.com/iqbalhasan.dev/)
 
 - **Laravel**: 5.6/5.7/5.8/6.0/7.0/8.0
 - **Author**: IQBAL HASAN
-- **Website & Documentation:**:
+- **Website & Documentation:**: https://iqbalhasandev.github.io/laravel-bulksmsbd/
 
 <hr>
 
@@ -26,7 +26,7 @@ Should you still be on version 5.4 of Laravel, the final steps for you are to ad
 
 Add a new line to the `providers` array:
 
-    iqbalhasandev\laravel-bulksmsbd\BulkSMSBDServiceProvider::class
+    iqbalhasandev\bulksmsbd\BulkSMSBDServiceProvider::class
 
 ### 3. Add `BULK_SMSBD_USERNAME`, `BULK_SMSBD_PASSWORD` to **.env** file.
 
@@ -74,7 +74,7 @@ BulkSMSBD::send($numbers,$message);
 
 If you want to change or publish the `config` file.
 
-    php artisan vendor:publish --provider="iqbalhasandev\laravel-bulksmsbd\BulkSMSBDServiceProvider" --tag="config"
+    php artisan vendor:publish --provider="iqbalhasandev\bulksmsbd\BulkSMSBDServiceProvider"
 
 ## Credits
 

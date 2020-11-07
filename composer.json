@@ -23,6 +23,14 @@
         "psr-4": {
             "iqbalhasandev\\bulksmsbd\\": "src/"
         }
+    },
+    "extra": {
+    "laravel": {
+        "providers": [
+            "iqbalhasandev\\bulksmsbd\\BulkSMSBDServiceProvider"
+        ],
+        "aliases": {}
     }
+}
 
 }
