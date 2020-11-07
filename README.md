@@ -10,7 +10,6 @@ Made with ❤️ by [Iqbal Hasan](https://www.facebook.com/iqbalhasan.dev/)
 <a href="https://github.com/iqbalhasandev/laravel-bulksmsbd/issues"><img src="https://img.shields.io/github/issues/iqbalhasandev/laravel-bulksmsbd" alt="issues"></a>
 <a href="https://github.com/iqbalhasandev/laravel-bulksmsbd/network/members"><img src="https://img.shields.io/github/forks/iqbalhasandev/laravel-bulksmsbd" alt="forks"></a>
 <a href="https://github.com/iqbalhasandev/laravel-bulksmsbd/stargazers"><img src="https://img.shields.io/github/stars/iqbalhasandev/laravel-bulksmsbd" alt="stars"></a>
-
 <a href="http://opensource.org/licenses/MIT"><img src="https://img.shields.io/github/license/iqbalhasandev/laravel-bulksmsbd" alt="license"></a>
 
 </p>
