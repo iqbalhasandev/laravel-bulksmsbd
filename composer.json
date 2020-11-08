@@ -6,7 +6,14 @@
         "package",
         "library",
         "Plugin",
-        "bulksmsbd"
+        "bulksmsbd",
+        "laravel-package", 
+        "sms-api",
+        "laravel-plugin",
+        "bulksms",
+        "laravel-bulksms", 
+        "laravel-bulksmsbd",
+        "laravel-sms-gateway"
     ],
     "require": {
         "guzzlehttp/guzzle": "^7.2"
