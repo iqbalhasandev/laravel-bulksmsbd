@@ -1,6 +1,6 @@
 # laravel-bulksmsbd - The Missing Bangladeshi 'bulksmsbd' SMS Service Provider package
 
-Made with ❤️ by [Iqbal Hasan](https://www.facebook.com/iqbalhasan.dev/)
+Made with ❤️ by [Iqbal Hasan](https://www.iqbalhasan.dev)
 
 - **Laravel**: 5.6/5.7/5.8/6.0/7.0/8.0
 - **Author**: IQBAL HASAN
