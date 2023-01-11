@@ -1,3 +1,5 @@
+# This package is abandoned and no longer maintained. The author suggests using the <a href="https://github.com/nanopkg/laravel-bulk-sms-bd">nanopkg/laravel-bulk-sms-bd</a> package instead.
+
 # laravel-bulksmsbd - The Missing Bangladeshi 'bulksmsbd' SMS Service Provider package
 
 Made with ❤️ by [Iqbal Hasan](https://www.iqbalhasan.dev)
@@ -20,7 +22,7 @@ Made with ❤️ by [Iqbal Hasan](https://www.iqbalhasan.dev)
 
 Integrate SMS system into your project easily with bulk sms bd's API via this plugin.
 
-# This package is abandoned and no longer maintained. The author suggests using the <a href="https://github.com/nanopkg/laravel-bulk-sms-bd">nanopkg/laravel-bulk-sms-bd</a> package instead.
+
 
 ## Installation Steps
 
