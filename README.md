@@ -1,4 +1,7 @@
-# This package is abandoned and no longer maintained. The author suggests using the <a href="https://github.com/nanopkg/laravel-bulk-sms-bd">nanopkg/laravel-bulk-sms-bd</a> package instead.
+# 🚨 Laravel Bulk SMS BD (Deprecated)
+
+**⚠️ This package (`iqbalhasandev/laravel-bulksmsbd`) is no longer maintained.**  
+For all new projects, we **strongly recommend** migrating to **[`DevWizardHQ/laravel‑textify`](https://github.com/DevWizardHQ/laravel-textify)**, a more modern, well‑supported Laravel SMS package.
 
 ## laravel-bulksmsbd - The Missing Bangladeshi 'bulksmsbd' SMS Service Provider package
 
